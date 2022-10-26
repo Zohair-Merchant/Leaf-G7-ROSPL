@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/tech-introspectors/Leaf-disease-identification?include_prereleases">
+
   <img src="https://img.shields.io/github/last-commit/tech-introspectors/Leaf-disease-identification">
   <img src="https://img.shields.io/github/issues-raw/tech-introspectors/Leaf-disease-identification">
   <img src="https://img.shields.io/github/issues-pr/tech-introspectors/Leaf-disease-identification">
