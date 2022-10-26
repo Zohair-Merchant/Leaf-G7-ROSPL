@@ -64,14 +64,3 @@ The Suggestions screen is the main screen which returns the name of the disease 
 Apart from being accurate in predicting leaf disease and their solutions, one more particular feature that makes our application stand out from other similar applications is that our application has a language translation module. It is important to remember that if a mobile application is available only in English, then a farmer might not be able to use the application easily.
 
 That is why we have developed a language translation module that will translate our application into 15 widely spoken languages in India. We will soon expand it to 22 languages that are commonly spoken in India. This will make our application more accessible for the farmers. 
-
-# Demo-Preview
-
-
-
-https://user-images.githubusercontent.com/65682028/170879410-a6ba391d-a419-4760-a6a2-af170474de9a.mp4
-
-
-
-
-
