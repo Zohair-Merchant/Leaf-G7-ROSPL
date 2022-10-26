@@ -6,13 +6,7 @@
 
 </p>
 
-<p align="center">
 
-  <img src="https://img.shields.io/github/last-commit/tech-introspectors/Leaf-disease-identification">
-  <img src="https://img.shields.io/github/issues-raw/tech-introspectors/Leaf-disease-identification">
-  <img src="https://img.shields.io/github/issues-pr/tech-introspectors/Leaf-disease-identification">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg">
-</p>
 
 
 Agriculture is the primary source of livelihood for about 58 per cent of India’s population. Gross Value Added by agriculture, forestry and fishing is estimated at Rs 18.55 lakh crore (US$ 265.51 billion) in FY19(PE).  
@@ -78,107 +72,6 @@ That is why we have developed a language translation module that will translate 
 https://user-images.githubusercontent.com/65682028/170879410-a6ba391d-a419-4760-a6a2-af170474de9a.mp4
 
 
-
-# Table of contents
-
-Here is the TOC this project.
-
-- [Demo-Preview](#demo-preview)
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
-
-# Implementation
-[(Back to top)](#table-of-contents)
-
-We have built a mobile application that is integrated with a robust machine learning model that is trained with a very large dataset.
-
-The mobile application allows a farmer to capture an image of an infected leaf and select an image from device storage. The application will then predict the disease affecting the crop and will also provide the solution to that disease.
-
-In this way, a farmer can detect a plant disease very easily. 
-
-To predict the solution, we have integrated a well trained Machine Learning model into our application which stands with an accuracy of 97.53%.
-
-Talking about the technologies that we have used to build the product, we have used multiple technologies to develop our project. 
-
-Firstly, we developed our mobile application using flutter. We have used flutter to develop cross-platform mobile applications.
-
-Next, we have used Tensorflow to develop a robust Machine learning model with an accuracy of 97.53% and trained it with over 6,55,000 images and used Keras to create a layered neural network to distinguish over 30 types of common plant diseases.
-
-# Usage
-[(Back to top)](#table-of-contents)
-
-
-If we help to identify pests and diseases in their early stages, a farmer can take necessary actions to save their crop. This will contribute in feeding atleast a portion of the 200 million Indians who go to bed hungry every night.
-
-We are looking to use Technology to tackle challenges in Agriculture. And we believe, our Leaf disease identification mobile application is going to play a crucial role in revolutionizing farming in India.  
-
-
-
-## Getting started
-
-In order to get started with the application, fork the repository and create a local workspace.
-
-Install Flutter SDK, Android Studio
-
-Set the environment variables if necessary
-
-### Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/Zohair-Merchant/Leaf-disease-identification.git
-```
-2. Install Flutter packages
-```sh
-flutter pub get
-```
-
-# Development
-[(Back to top)](#table-of-contents)
-
-We have created a mobile application in which we need to capture an image of an infected leaf. And it will predict the disease affecting the crop and will also provide the solution to that disease.
-
-In this way, a farmer can detect a plant disease very easily. 
-
-In order to predict the solution, we have integrated a well trained Machine Learning model into our application which stands with an accuracy of 97.53%.
-
-Talking about the technologies that we have used to build the product, we have used multiple technologies to develop our project. 
-
-Firstly, we developed our mobile application using flutter. We have used flutter because we can develop cross platform mobile applications.
-
-Next, we have used Tensorflow to develop a robust Machine learning model with an accuracy of 97.53% and trained it with over 6,55,000 images and used keras to create a layered neural network to distinguish over 30 types of common plant diseases.
-
-
-# Contribute
-[(Back to top)](#table-of-contents)
-
-Please check Contribute.md to know how you can contribute to this project.
-
-### Sponsor
-[(Back to top)](#table-of-contents)
-
-If you want to sponsor the project, please donate your money to any relief funds for COVID-19 like [WHO Relief fund](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate) or the organizations in your own country like [PM cares fund](https://www.pmcares.gov.in/en/)
-
-
-### Adding new features or fixing bugs
-[(Back to top)](#table-of-contents)
-
-If you find an issue in the project, open a new issue or a raise a pull request in this repository. 
-
-You can also mail to dantusaikamal@gmail.com incase of any issues.
-
-# License
-[(Back to top)](#table-of-contents)
-
-Check out the LICENSE file in the repo.
-
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 
 
 
