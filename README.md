@@ -132,7 +132,7 @@ Set the environment variables if necessary
 
 1. Clone the repo
 ```sh
-git clone https://github.com/tech-introspectors/Leaf-disease-identification.git
+git clone https://github.com/Zohair-Merchant/Leaf-disease-identification.git
 ```
 2. Install Flutter packages
 ```sh
